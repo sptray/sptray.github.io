@@ -1,0 +1,48 @@
+body{
+                background: #0fe7f1;
+                font-family: Arial;
+}
+ 
+.Kalkulator{
+                width: 335px;
+                background: #00AAFF;
+                margin: 100px auto;
+                padding: 10px 20px 50px 20px;
+                border-radius: 5px;
+}
+ 
+.Judul{
+                text-align: center;
+                color: #000033;
+                font-weight: normal;
+}
+  
+.Text{
+                width: 300px;
+                margin: 5px;
+                border: none;
+                font-size: 16pt;
+                border-radius: 5px;
+                padding: 10px; 
+}
+ 
+.Operator{
+                font-size: 16pt;
+                border: none;
+                width: 300px;
+                margin: 5px;
+                border-radius: 5px;
+                padding: 10px;
+}
+ 
+.Tombol{
+                background: #000033;
+                border-top: none;
+                border-right: none;
+                border-left: none;
+                border-radius: 5px;
+                padding: 10px 40px;
+                color: #eee;
+                font-size: 15pt;
+ 
+}
